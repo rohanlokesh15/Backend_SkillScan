@@ -5,3 +5,4 @@ numpy
 scipy
 nltk
 flask_cors
+PyPDF2
