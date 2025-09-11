@@ -7,3 +7,4 @@ nltk
 flask_cors
 PyPDF2
 werkzeug
+pdfplumber
